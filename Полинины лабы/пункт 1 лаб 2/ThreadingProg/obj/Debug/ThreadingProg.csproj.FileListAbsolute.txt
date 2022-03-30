@@ -1,0 +1,14 @@
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\вторая лаба\ThreadingProg\bin\Debug\ThreadingProg.exe.config
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\вторая лаба\ThreadingProg\bin\Debug\ThreadingProg.exe
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\вторая лаба\ThreadingProg\bin\Debug\ThreadingProg.pdb
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\вторая лаба\ThreadingProg\obj\Debug\ThreadingProg.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\вторая лаба\ThreadingProg\obj\Debug\ThreadingProg.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\вторая лаба\ThreadingProg\obj\Debug\ThreadingProg.exe
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\вторая лаба\ThreadingProg\obj\Debug\ThreadingProg.pdb
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\Полинины лабы\пункт 1 лаб 2\ThreadingProg\bin\Debug\ThreadingProg.exe.config
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\Полинины лабы\пункт 1 лаб 2\ThreadingProg\bin\Debug\ThreadingProg.exe
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\Полинины лабы\пункт 1 лаб 2\ThreadingProg\bin\Debug\ThreadingProg.pdb
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\Полинины лабы\пункт 1 лаб 2\ThreadingProg\obj\Debug\ThreadingProg.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\Полинины лабы\пункт 1 лаб 2\ThreadingProg\obj\Debug\ThreadingProg.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\Полинины лабы\пункт 1 лаб 2\ThreadingProg\obj\Debug\ThreadingProg.exe
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\Полинины лабы\пункт 1 лаб 2\ThreadingProg\obj\Debug\ThreadingProg.pdb
