@@ -1,0 +1,32 @@
+C:\Users\gubch\source\repos\taskManager\taskManager\bin\Debug\net5.0\taskManager.exe
+C:\Users\gubch\source\repos\taskManager\taskManager\bin\Debug\net5.0\taskManager.deps.json
+C:\Users\gubch\source\repos\taskManager\taskManager\bin\Debug\net5.0\taskManager.runtimeconfig.json
+C:\Users\gubch\source\repos\taskManager\taskManager\bin\Debug\net5.0\taskManager.runtimeconfig.dev.json
+C:\Users\gubch\source\repos\taskManager\taskManager\bin\Debug\net5.0\taskManager.dll
+C:\Users\gubch\source\repos\taskManager\taskManager\bin\Debug\net5.0\ref\taskManager.dll
+C:\Users\gubch\source\repos\taskManager\taskManager\bin\Debug\net5.0\taskManager.pdb
+C:\Users\gubch\source\repos\taskManager\taskManager\obj\Debug\net5.0\taskManager.csprojAssemblyReference.cache
+C:\Users\gubch\source\repos\taskManager\taskManager\obj\Debug\net5.0\taskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gubch\source\repos\taskManager\taskManager\obj\Debug\net5.0\taskManager.AssemblyInfoInputs.cache
+C:\Users\gubch\source\repos\taskManager\taskManager\obj\Debug\net5.0\taskManager.AssemblyInfo.cs
+C:\Users\gubch\source\repos\taskManager\taskManager\obj\Debug\net5.0\taskManager.csproj.CoreCompileInputs.cache
+C:\Users\gubch\source\repos\taskManager\taskManager\obj\Debug\net5.0\taskManager.dll
+C:\Users\gubch\source\repos\taskManager\taskManager\obj\Debug\net5.0\ref\taskManager.dll
+C:\Users\gubch\source\repos\taskManager\taskManager\obj\Debug\net5.0\taskManager.pdb
+C:\Users\gubch\source\repos\taskManager\taskManager\obj\Debug\net5.0\taskManager.genruntimeconfig.cache
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\bin\Debug\net5.0\taskManager.exe
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\bin\Debug\net5.0\taskManager.deps.json
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\bin\Debug\net5.0\taskManager.runtimeconfig.json
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\bin\Debug\net5.0\taskManager.runtimeconfig.dev.json
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\bin\Debug\net5.0\taskManager.dll
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\bin\Debug\net5.0\ref\taskManager.dll
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\bin\Debug\net5.0\taskManager.pdb
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\obj\Debug\net5.0\taskManager.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\obj\Debug\net5.0\taskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\obj\Debug\net5.0\taskManager.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\obj\Debug\net5.0\taskManager.AssemblyInfo.cs
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\obj\Debug\net5.0\taskManager.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\obj\Debug\net5.0\taskManager.dll
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\obj\Debug\net5.0\ref\taskManager.dll
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\obj\Debug\net5.0\taskManager.pdb
+C:\Users\Home\Desktop\учеба\лабы\7-ой семестр\Системное программирование\третья лаба\taskManager\taskManager\obj\Debug\net5.0\taskManager.genruntimeconfig.cache
